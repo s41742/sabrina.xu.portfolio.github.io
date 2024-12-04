@@ -34,14 +34,16 @@ Psychology, BS
   Multiple regression was used to analyze the simultaneous effects of emotional stability, internet use, and academic performance on relationship satisfaction.
 
 ### Findings
+![Description of Image 2](./assets/Screenshot%202024-12-03%20at%206.57.46%20PM.png)
+
+![Description of Image 1](./assets/Screenshot%202024-11-29%20at%204.56.08%20PM.png)
+
 - **Key Results**:  
   - Emotional Stability: Adolescents with higher emotional stability tend to report lower satisfaction in their relationships.  
   - Internet Use Time & Academic Performance: Neither variable significantly influences relationship satisfaction.
-
-- **Interpretation**:  
   - Emotional stability’s negative association may reflect high self-expectations or low emotional adaptability in close relationships.  
   - The lack of impact from internet use challenges common stereotypes about its harmful effects on adolescent relationships.
-
+    
 ### Impact
 - **Significance**:  
   This research challenges stereotypes about internet use and highlights the importance of emotional well-being in adolescent relationships.
@@ -52,9 +54,12 @@ Psychology, BS
   - **Tech Companies**: Design guidelines or programs for healthy internet use based on personality traits. For example, social media platforms could tailor content recommendations to better suit users’ personalities.
 
 ### Other Information
-- **Credits**:  
-  Data from Jackson, Caldwell, Antonucci, & Oyserman (2016).  
 
-- **Links**:  
-  - [Link to dataset](#).  
-  - [Link](#).
+**Credits**  
+Data from Jackson, Caldwell, Antonucci, & Oyserman (2016).  
+
+**Dataset Link**  
+[National Survey of American Life - Adolescent Supplement (NSAL-A)](https://www.icpsr.umich.edu/web/ICPSR/studies/36380)  
+
+**Analytic Codes**  
+[R Script for Analysis](https://github.com/s41742/My-project-/blob/main/psy329%20project%20SabrinaXu.Rmd)
