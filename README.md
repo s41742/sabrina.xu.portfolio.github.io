@@ -4,7 +4,7 @@
 Psychology, BS
 
 ### Project
-# Project: Adolescent Relationships and Personality
+# Project: Adolescent Intimate Relationships, Internet Use, and Emotional Stability
 
 ### Objectives
 - **Project Goal**:  
