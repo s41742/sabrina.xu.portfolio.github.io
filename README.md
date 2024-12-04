@@ -34,6 +34,11 @@ Psychology, BS
   I examined how emotional stability, internet use, and academic performance together influence satisfaction in adolescent relationships. This was achieved using multiple regression, which 
 allowed me to account for the combined effects of these factors.
 
+### **Reliability Analysis Summary**
+- **Total Items**: 7  
+- **Scale Range**: 1 ~ 4  
+- **Cronbach’s α**: 0.797
+
 ### Findings
 ![Description of Image 2](./assets/Screenshot%202024-12-03%20at%206.57.46%20PM.png)
 
