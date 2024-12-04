@@ -34,11 +34,6 @@ Psychology, BS
   I examined how emotional stability, internet use, and academic performance together influence satisfaction in adolescent relationships. This was achieved using multiple regression, which 
 allowed me to account for the combined effects of these factors.
 
-### **Reliability Analysis Summary**
-- **Total Items**: 7  
-- **Scale Range**: 1 ~ 4  
-- **Cronbach’s α**: 0.797
-
 ### Findings
 ![Description of Image 2](./assets/Screenshot%202024-12-03%20at%206.57.46%20PM.png)
 
@@ -49,19 +44,6 @@ allowed me to account for the combined effects of these factors.
   - Internet Use Time & Academic Performance: Neither variable significantly influences relationship satisfaction.
   - Emotional stability’s negative association may reflect high self-expectations or low emotional adaptability in close relationships.  
   - The lack of impact from internet use challenges common stereotypes about its harmful effects on adolescent relationships.
-    
-### Strengths
-- The scale used demonstrates strong construct validity.
-- The study takes a multi-variable approach, examining both emotional stability and internet use frequency.
-- Provides a comprehensive perspective that identifies complex relationships often missed by single-variable analysis.
-
-### Limitations
-- Utilizes an unusual sample group, which may limit external validity.
-- The cross-sectional design prevents establishing causal relationships.
-
-### Future Directions
-- Incorporate longitudinal designs to explore causal relationships.
-- Collect data during childhood and again at age 18 to analyze developmental patterns and their impact on intimate relationships.
     
 ### Impact
 - **Significance**:  
