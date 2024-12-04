@@ -50,6 +50,19 @@ allowed me to account for the combined effects of these factors.
   - Emotional stability’s negative association may reflect high self-expectations or low emotional adaptability in close relationships.  
   - The lack of impact from internet use challenges common stereotypes about its harmful effects on adolescent relationships.
     
+### Strengths
+- The scale used demonstrates strong construct validity.
+- The study takes a multi-variable approach, examining both emotional stability and internet use frequency.
+- Provides a comprehensive perspective that identifies complex relationships often missed by single-variable analysis.
+
+### Limitations
+- Utilizes an unusual sample group, which may limit external validity.
+- The cross-sectional design prevents establishing causal relationships.
+
+### Future Directions
+- Incorporate longitudinal designs to explore causal relationships.
+- Collect data during childhood and again at age 18 to analyze developmental patterns and their impact on intimate relationships.
+    
 ### Impact
 - **Significance**:  
   This research challenges stereotypes about internet use and highlights the importance of emotional well-being in adolescent relationships.
@@ -58,6 +71,7 @@ allowed me to account for the combined effects of these factors.
   - **Parents and Educators**: Better understand the role of personality in shaping adolescent relationships.  
   - **Policymakers**: Develop targeted interventions for adolescent emotional and social development.  
   - **Tech Companies**: Design guidelines or programs for healthy internet use based on personality traits. For example, social media platforms could tailor content recommendations to better suit users’ personalities.
+
 
 ### Other Information
 
