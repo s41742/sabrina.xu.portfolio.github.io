@@ -31,7 +31,8 @@ Psychology, BS
   Data were collected through structured, face-to-face interviews covering mental health, internet use, personality traits, and relationships.
 
 - **Analysis Method**:  
-  Multiple regression was used to analyze the simultaneous effects of emotional stability, internet use, and academic performance on relationship satisfaction.
+  I examined how emotional stability, internet use, and academic performance together influence satisfaction in adolescent relationships. This was achieved using multiple regression, which 
+allowed me to account for the combined effects of these factors.
 
 ### Findings
 ![Description of Image 2](./assets/Screenshot%202024-12-03%20at%206.57.46%20PM.png)
