@@ -3,7 +3,8 @@ plugins:
   - jekyll-remote-theme
   
 title: Sabrina Xu
-#logo: /Users/xushimin/Desktopdescription: Research Portfolio
+logo: /assets/snowman.png
+description: Research Portfolio
 show_downloads: true
 theme: jekyll-theme-minimal
 
